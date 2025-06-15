@@ -2,6 +2,7 @@ package server;
 
 import javafx.application.Platform;
 
+
 import javafx.scene.control.TextArea;
 import java.io.IOException;
 import java.net.DatagramPacket;

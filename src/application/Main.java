@@ -36,7 +36,7 @@ public class Main extends Application {
     
     @Override
     public void start(Stage primaryStage) {
-        primaryStage.setTitle("Simple LAN Communicator V1.2");
+        primaryStage.setTitle("Java Peer Connect V1.2");
         
         serverPort = new Random().nextInt(64512) + 1024;
         

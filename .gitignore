@@ -1,0 +1,54 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse
+.project
+.classpath
+.settings/
+*.launch
+.externalToolBuilders/
+
+# VS Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Log files
+*.log
+
+# Compiled class files
+*.class
+
+# Package Files
+# Jar, War, Ear, Zip, etc.
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# JLink custom runtime image
+# This matches your `jlink.output.dir` property in pom.xml
+jlink-image/
+
+# Other potential build outputs or temporary files
+# If you have specific output directories for installers, etc., add them here.
