@@ -19,4 +19,20 @@ JPC was created as a POC (Proof of concept) as a LAN communication system backbo
 * **Disconnect Functionality**: Easily disconnect from a server or shut down a hosted server.
 
 ## Images
-todo
+<details>
+  <summary>Click to view images</summary>
+  
+![Home Page](https://github.com/ILFforever/JPC/blob/main/Images/home.png)
+  
+![Host Page](https://github.com/ILFforever/JPC/blob/main/Images/hoster.png)
+
+![Client Page](https://github.com/ILFforever/JPC/blob/main/Images/client.png)
+
+![Both Page](https://github.com/ILFforever/JPC/blob/main/Images/both.png)
+
+![Command Page](https://github.com/ILFforever/JPC/blob/main/Images/sysls.png)
+
+</details>
+
+## Credit
+Chulalongkorn University's Software Enginnering 2110423 for the Assignment.
