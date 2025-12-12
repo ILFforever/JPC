@@ -1,4 +1,11 @@
 # JPC
+
+[![Language](https://img.shields.io/badge/Language-Java%2021-orange.svg)](https://www.oracle.com/java/)
+[![Framework](https://img.shields.io/badge/Framework-JavaFX%2021-blue.svg)](https://openjfx.io/)
+[![Build Tool](https://img.shields.io/badge/Build-Maven-red.svg)](https://maven.apache.org/)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)](https://github.com/ILFforever/JPC)
+[![License](https://img.shields.io/badge/License-Educational-green.svg)](https://github.com/ILFforever/JPC)
+
 JavaPeerConnect (JPC) is a simple, peer-to-peer chat application built using JavaFX allowing users to chat to and from using their LAN.
 
 ## Background 
